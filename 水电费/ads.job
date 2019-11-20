@@ -1,0 +1,3 @@
+type=command
+do_date=${dt}
+command=/home/hadoop/bin/ads_sale.sh ${do_date}
